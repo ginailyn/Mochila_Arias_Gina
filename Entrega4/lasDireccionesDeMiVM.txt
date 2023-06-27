@@ -1,0 +1,15 @@
+1.- La IP privada y publica de la maquina virtual
+IP PRIVADA 172.30.1.2 
+IP PUBLICA 200.123.230.247
+
+2.- La direccion MAC
+MAC f2:05:f6:3f:86:80
+
+
+3.- Es diferente a la IP publica y a la ip privada de nuestra maquina host?
+Si, es diferente e icluso independiente de la direccion IP privada de nuestra 
+maquina host. 
+Cuando se ejecuta una maquina virtual, se crea un entorno virtualizado con su 
+propia interfaz de red virtual y direccion IP asociada. Esta direccion IP virtual
+puede ser diferente de la direccion del host fisico y puede estar configurada de 
+acuerdo con la configuracion de red especifica de la maquina virtual
